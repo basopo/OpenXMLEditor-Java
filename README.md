@@ -1,6 +1,6 @@
 # OpenXMLEditor-Java
 
-
+You can check the [Wiki](../../wiki)
 
 A web browser based XML editor. It provides a general use graphical tool for creating new or modifying existing XML documents in your web browser. Information is extracted from an XML schema (XSD file) to provide the user with information about what elements, sub elements and attributes are available at different points in the structure, and a GUI based means of adding or removing them from the document.
 Additionally, this project includes a tool for generating JSON objects from XML schemas, which can either be directly used in browsers or precompiled (see xsd/xsd2json.js).
